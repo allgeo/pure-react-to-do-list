@@ -1,8 +1,5 @@
 
-<a name="readme-top"></a>
-
 <!-- PROJECT LOGO -->
-<br />
 <div align="left">
   <h3 align="left">React To-do list</h3>
 
