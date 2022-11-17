@@ -8,10 +8,9 @@
     <br />
   </p>
   <a >
-    <img style="float: right;  " src="https://user-images.githubusercontent.com/62227321/201502615-638e5253-3736-451c-a277-cebd7028b614.png" alt="Logo">
+    <img style="float: right;  " src="https://user-images.githubusercontent.com/62227321/202563414-db498de5-f182-4b21-a17f-80c9fc94233e.gif" alt="Logo">
   </a>
 </div>
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
